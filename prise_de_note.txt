@@ -1,0 +1,57 @@
+persona
+SWOT
+ Strenghs : force 
+ weakness : faiblesses
+ o
+ t
+
+charte graphique : couleurs, logo,polices (esthetiques du site) 
+	editoriale : ton et forme du contenu! SEO
+
+GLOOMAPS
+
+nom de domaine :
+	le nom
+	les extensions:
+	fonctionnalités additionnels à lavenir
+choix de l'hebergement
+	hebergement mutualise : partage un espace (ovh)
+	hebergement dedié
+	infogerance : qui s'occupe de la maintenance du site 
+
+besoins du projet
+	etude de l'existant : etude de marche
+	enconce du besoin
+	fonction du produit
+
+preciser les besoins
+
+fonction du produit
+
+contraintes technique
+	CMS?JAVA?KOTLIN?PHP
+
+droit et propriétés
+	dates projet:
+		recette : dates projet terminé en locale
+	pre-produtcion:
+		
+
+plannification et jalonnage
+
+diagramme de gant
+	plusieurs livrables par jalons (la fin de la fin d'une etape)
+	qui fait quoi pendant combien de temps
+
+budget
+	fourchette de prix
+	postes de depense
+	
+
+ANIMALERIE 
+	DUPONT PHILIPPE
+	
+
+
+
+
